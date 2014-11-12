@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ex04test.MainActivity" >
+    
+    <TextView
+        android:id="@+id/listview_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/listview_title" 
+        />
+
+    <ListView
+        android:id="@+id/listview_item"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+     
+
+    </ListView>
+    
+
+</LinearLayout>

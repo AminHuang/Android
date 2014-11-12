@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ex02</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="information">个人信息</string>
+    <string-array name="Spinner1">
+        <item>计应</item>
+        <item>通软</item>
+        <item>数媒</item>
+        <item>嵌软</item>
+        <item>电政</item>
+    </string-array>
+
+
+</resources>
