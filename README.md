@@ -4,6 +4,7 @@ Android Study
 
 project.properties
 =========
+
 target=android-19
 android.library.reference.1=../appcompat_v7
 
