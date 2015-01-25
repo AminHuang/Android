@@ -2,6 +2,8 @@ Android
 =========
 Android Study
 
+
+# Project target.
 android.library.reference.1=../appcompat_v7
 
 target=android-19
