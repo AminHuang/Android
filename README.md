@@ -1,12 +1,15 @@
 Android
 =========
+Android Study
+
 
 # Project target.
 target=android-19
 android.library.reference.1=../appcompat_v7
+
+The content of the course
 =========
 
-Android Study
 
 HelloWorld: 
 
